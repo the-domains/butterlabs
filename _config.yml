@@ -1,7 +1,7 @@
 name: butterlabs
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.88222
+typography_spectrum: 0.47116
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#fff15c'
+    - '#1f1e1d'
     - '#f9f9f9'
     - '#6b6b6c'
-    - '#8ebdd7'
-    - '#939394'
-    - '#dddddd'
-  brandStrength: 0.8125
+    - '#999137'
+  brandStrength: 0.5
   lightness: 0.8125
   saturation: 0
   rhythmicContrast: 0.5
