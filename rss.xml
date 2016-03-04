@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[butterlabs]]></title>
         <description><![CDATA[butterlabs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/butterlabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 03:19:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 04:10:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/butterlabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We (Butter Labs) are a socially motivated group working on data-driven projects.  Find out more about our our project</p>]]></description>
-            <link>undefined624cb67b-fd27-4dcf-b05f-abb48c344fa5/index.html</link>
+            <title><![CDATA[Butter Labs]]></title>
+            <description><![CDATA[<article><h1>Butter Labs</h1><p>We (Butter Labs) are a socially motivated group working on data-driven projects.  We are all about finding bold and innovative solutions to problems that we see all around us. Check out our projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee9defe8300b1be170186b922cb0f164a32757f0.png"></article>]]></description>
+            <link>https://thegrid.ai/butterlabs/624cb67b-fd27-4dcf-b05f-abb48c344fa5/index.html</link>
             <guid isPermaLink="false">624cb67b-fd27-4dcf-b05f-abb48c344fa5</guid>
-            <pubDate>Fri, 04 Mar 2016 03:19:00 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 04:10:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
