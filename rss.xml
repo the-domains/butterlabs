@@ -4,21 +4,21 @@
         <description><![CDATA[butterlabs]]></description>
         <link>https://thegrid.ai/butterlabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 04:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 04:20:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/butterlabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Butter Labs]]></title>
+            <description><![CDATA[<article><h1>Butter Labs</h1><p>We (Butter Labs) are a socially motivated group working on data-driven projects.  We are all about finding bold and innovative solutions to problems that we see all around us. Check out our projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee9defe8300b1be170186b922cb0f164a32757f0.png"></article>]]></description>
+            <link>https://thegrid.ai/butterlabs/624cb67b-fd27-4dcf-b05f-abb48c344fa5/index.html</link>
+            <guid isPermaLink="false">624cb67b-fd27-4dcf-b05f-abb48c344fa5</guid>
+            <pubDate>Fri, 04 Mar 2016 04:19:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p> humanBot: humanBot is a Slack application that serves as a reporting tool for Micro-aggressions in the workplace.  The product is designed to help people report abuse in the workplace without feeling vulnerable.  Harassment at the workplace is a massive problem, especially in white cis-male dominated fields like tech and finance.  We think this solution has the potential to change the dynamics in such companies and create equal opportunities for men and women in the workplace.</p>]]></description>
             <link>https://thegrid.ai/butterlabs/01b6ceff-d8e1-4d40-9edf-7ea738367108/index.html</link>
             <guid isPermaLink="false">01b6ceff-d8e1-4d40-9edf-7ea738367108</guid>
             <pubDate>Fri, 04 Mar 2016 04:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Butter Labs]]></title>
-            <description><![CDATA[<article><h1>Butter Labs</h1><p>We (Butter Labs) are a socially motivated group working on data-driven projects.  We are all about finding bold and innovative solutions to problems that we see all around us. Check out our projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee9defe8300b1be170186b922cb0f164a32757f0.png"></article>]]></description>
-            <link>https://thegrid.ai/butterlabs/624cb67b-fd27-4dcf-b05f-abb48c344fa5/index.html</link>
-            <guid isPermaLink="false">624cb67b-fd27-4dcf-b05f-abb48c344fa5</guid>
-            <pubDate>Fri, 04 Mar 2016 04:13:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
