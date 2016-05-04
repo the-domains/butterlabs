@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: butterlabs is a grid.ai site
-datePublished: '2016-05-04T01:45:14.196Z'
-dateModified: '2016-05-04T01:45:07.016Z'
+datePublished: '2016-05-04T01:49:27.794Z'
+dateModified: '2016-05-04T01:45:22.706Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-04-butterlabs-is-a-gridai-site.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-04-butterlabs-is-a-gridai-site.md
-published: true
 url: butterlabs-is-a-gridai-site/index.html
 _type: Article
 
