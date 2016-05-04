@@ -1,7 +1,7 @@
 name: Butter Labs
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.47116
+typography_spectrum: 0.32926
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d02222'
-    - '#dddddd'
-    - '#d46868'
-    - '#dab9b9'
-    - '#d89696'
-  brandStrength: 1
+    - '#fbd463'
+    - '#ffffff'
+    - '#fbdc80'
+    - '#fce8ab'
+    - '#fef6dc'
+  brandStrength: 0.9375
   lightness: 0.5
-  saturation: 0.875
+  saturation: 0.8125
   rhythmicContrast: 1
 purpose: []
