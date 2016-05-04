@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[butterlabs]]></title>
-        <description><![CDATA[butterlabs]]></description>
+        <title><![CDATA[Butter Labs]]></title>
+        <description><![CDATA[Butter Labs]]></description>
         <link>https://thegrid.ai/butterlabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 04:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 01:46:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/butterlabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Butter Labs]]></title>
-            <description><![CDATA[<article><h1>Butter Labs</h1><p>We (Butter Labs) are a socially motivated group working on data-driven projects.  We are all about finding bold and innovative solutions to problems that we see all around us. Check out our projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee9defe8300b1be170186b922cb0f164a32757f0.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b01f5ad3-1a09-4cc9-a7d0-cd7646e56aa3.png">]]></description>
             <link>https://thegrid.ai/butterlabs/624cb67b-fd27-4dcf-b05f-abb48c344fa5/index.html</link>
             <guid isPermaLink="false">624cb67b-fd27-4dcf-b05f-abb48c344fa5</guid>
             <pubDate>Fri, 04 Mar 2016 04:19:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c747a40-1450-4490-b703-2c3d00089361.png">]]></description>
+            <link>https://thegrid.ai/butterlabs/butterlabs-is-a-gridai-site/index.html</link>
+            <guid isPermaLink="false">e804bdbb-ee67-4b26-aa74-2819cca94ffc</guid>
+            <pubDate>Wed, 04 May 2016 01:45:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10 Percent of California's Water Goes to Almond Farming. That's Nuts.]]></title>
